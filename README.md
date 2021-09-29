@@ -14,7 +14,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Seta" height="30" width="40" src="https://api.iconify.design/ri/more-fill.svg?color=rgba(153%2C%20153%2C%20153%2C%200.6)">
   <img align="center" alt="VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Azure" height="30" width="40" src="https://api.iconify.design/mdi/microsoft-azure-devops.svg?color=%230085cf">
+  <img align="center" alt="AWS" height="30" width="40" src="https://api.iconify.design/mdi/aws.svg?f">
+  <img align="center" alt="AWS" height="30" width="40" src="https://api.iconify.design/mdi/trello.svg?">
   <br>
 </div>
 <div> 
@@ -25,6 +26,5 @@
     <a href="https://open.spotify.com/user/pmoraes" target="_blank"><img src="https://img.shields.io/badge/-Spotify-brightgreen?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
   <a href="https://www.urionlinejudge.com.br/judge/pt/profile/287590" target="_blank"><img src="https://img.shields.io/badge/-URI-yellow?style=for-the-badge&logo=false&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
