@@ -16,8 +16,9 @@
 <div> 
   <br>
   <a href="https://instagram.com/aluaq_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/paula-moraes-91b0aa189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://open.spotify.com/user/pmoraes" target="_blank"><img src="https://img.shields.io/badge/-Spotify-brightgreen?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/paula-moraes-91b0aa189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://pmoraes.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/pmoraes" target="_blank"><img src="https://img.shields.io/badge/-Spotify-brightgreen?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
   <a href="https://www.urionlinejudge.com.br/judge/pt/profile/287590" target="_blank"><img src="https://img.shields.io/badge/-URI-yellow?style=for-the-badge&logo=false&logoColor=white" target="_blank"></a> 
  
  
